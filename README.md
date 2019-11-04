@@ -1,7 +1,7 @@
 # saleor_teamwork
 saleor开发小组
 
-# **解决了bug：本地化地址解析出错**
+# 解决了bug：本地化地址解析出错
 解决方案：
 --/saleor/saleor/dashboard/menu/utils.py--
 ```
